@@ -1,2 +1,2 @@
 # Medicine
-A drug crawler, crawled https://ypk.99.com.cn/ used Scrapy framework
+A tiny drug crawler crawling https://ypk.99.com.cn/, powered by Scrapy framework.
